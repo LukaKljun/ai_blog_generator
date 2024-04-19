@@ -1,0 +1,9 @@
+
+**/*.pyc
+**/*.py-tpl
+**/*.mo
+**/*.po
+**/lib/
+__pycache__
+*.sqlite3
+
